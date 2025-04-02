@@ -1,5 +1,5 @@
 # Edvoc-Staff-Page
-Edvoc Staff Page is a Flutter-based application that retrieves and displays staff details from a specified API. The app provides a clean and user-friendly interface to browse staff information efficiently.
+Edvoc Staff Page is a Flutter-based interface that retrieves and displays staff details from a specified API. The app provides a clean and user-friendly interface to browse staff information efficiently.
 
 ✨ Features
   * Fetches real-time staff details from a remote API.
